@@ -1,2 +1,0 @@
-# Ractive.js
-   chrome-extension
